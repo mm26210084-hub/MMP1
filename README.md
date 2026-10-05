@@ -425,14 +425,17 @@ $$
 
 el predictor de Euler es
 
+```math
 $$
 \widetilde{\mathbf{X}}_{n+1}
 =
 \mathbf{X}_n+h\mathbf{F}(\mathbf{X}_n),
 $$
+```
 
 y el corrector de Heun se define como
 
+```math
 $$
 \mathbf{X}_{n+1}
 =
@@ -444,7 +447,7 @@ $$
 \mathbf{F}(\widetilde{\mathbf{X}}_{n+1})
 \right].
 $$
-
+```
 En el cuaderno se implementa con `dt = 1e-2`:
 
 ```matlab
