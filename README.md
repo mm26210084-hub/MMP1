@@ -179,11 +179,11 @@ $$
 
 El significado biológico del modelo requiere soluciones no negativas. Al evaluar el campo vectorial sobre las fronteras del cuadrante no negativo,
 
-$
+$$
 \left.\dot{x}\right|_{x=0}=0,
 \qquad
 \left.\dot{y}\right|_{y=0}=0.
-$
+$$
 
 Por lo tanto, el dominio
 
